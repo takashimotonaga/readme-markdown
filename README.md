@@ -14,3 +14,6 @@ _You **can** combine them_
 
 *theis text will be italic*
 _this will aloso italic_
+
+**this text will be bold**
+_this will aloso bold_
