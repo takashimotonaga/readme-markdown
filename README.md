@@ -42,3 +42,7 @@ function fancyAlert(arg) {
 #### 協調 #### 
 
 ## 強調 ##
+
+*文字 *
+
+** 文字 **
