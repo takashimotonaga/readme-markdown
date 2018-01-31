@@ -43,6 +43,6 @@ function fancyAlert(arg) {
 
 ## 強調 ##
 
-*文字 *
+*文字*
 
-** 文字 **
+**文字**
