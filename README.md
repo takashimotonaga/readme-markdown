@@ -31,3 +31,11 @@ _this will aloso italic_
 1. Item 3
    1. Item 3a
    1. Item 3b
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
