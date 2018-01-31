@@ -16,4 +16,6 @@ _You **can** combine them_
 _this will aloso italic_
 
 **this text will be bold**
-_this will aloso bold_
+
+**takashi motonaga**
+*takashi motonaga*
