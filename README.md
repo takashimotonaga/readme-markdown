@@ -1,5 +1,5 @@
 # readme-markdown
 マークダウンの練習２
-# This is an <h1> tag
-## This is an <h2> tag
+# ヘッダー <h1> tag
+## ヘッダー <h2> tag
 ###### This is an <h6> tag
