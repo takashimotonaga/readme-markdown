@@ -2,4 +2,5 @@
 マークダウンの練習２
 # ヘッダー <h1> tag
 ## ヘッダー <h2> tag
-###### This is an <h6> tag
+###### ヘッダー<h6> tag
+# takashi <h1> tag
